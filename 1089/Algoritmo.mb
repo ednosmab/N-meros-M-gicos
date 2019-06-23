@@ -1,0 +1,14 @@
+Inicio
+1. Escolha um número positivo de três dígitos não iguais.
+2. Escreva o número de trás pra frente (inversão).
+3. Subtraia o menor do maior (mantendo o resultado sempre positivo).
+    SE (resultado for um número menor que 100) ENTAO
+        Preencha o resultado com zeros à esquerda
+        Vá para o Passo 4
+    SENAO
+        Vá para o Passo 4
+    FimSE
+4. Escreva de trás para frente o resultado da subtração (inversão2).
+5. Some o resultado da subtração de [Passo 3] com a segunda inversão de [Passo 4].
+6. Mostre o resultado da operação do Passo 5.
+Fim
